@@ -1,6 +1,4 @@
 # Install the gTTS library if you haven't already
-# sudo apt-get install alsa-utils
-# sudo apt-get install mpg123
 
 # conversation_handler.py
 import threading
